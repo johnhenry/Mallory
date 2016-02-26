@@ -1,5 +1,5 @@
 #Mallory - Mathematics ActionScript Library - Advanced Math for ActionScript 3.0
-Note:This is a project imported from Google Code. I haven't worked on it for 7 years
+Note: This is project is originally written in ActionScript, which is based on ECMAScript 3.0 . I am currently in the process of migrating the code to work with with the latest version of JavaScript, based on ECMAScript 6.0. 
 
 This is a library for doing advanced college level math (i.e. beyond calculus) with in ActionScript 3.0.
 
